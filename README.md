@@ -3,10 +3,10 @@
 > Ranked **#210 out of 2,715** on DrivenData, predicting building damage from the 2015 Gorkha earthquake using LightGBM, neural geographic embeddings, and Bayesian hyperparameter optimization.
 
 [![Competition](https://img.shields.io/badge/DrivenData-Richter's%20Predictor-1a6bb5?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/)
-[![Rank](https://img.shields.io/badge/Rank-%23210%20%2F%202%2C715-gold?style=flat-square)]()
-[![Score](https://img.shields.io/badge/Micro--F1-0.7519-brightgreen?style=flat-square)]()
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776ab?style=flat-square&logo=python&logoColor=white)]()
-[![Framework](https://img.shields.io/badge/LightGBM%20%2B%20Keras-orange?style=flat-square)]()
+[![Rank](https://img.shields.io/badge/Rank-%23210%20%2F%202%2C715-gold?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/?page=5)
+[![Score](https://img.shields.io/badge/Micro--F1-0.7519-brightgreen?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/?page=5)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/LightGBM%20%2B%20Keras-orange?style=flat-square)](https://lightgbm.readthedocs.io/en/stable/)
 
 ---
 
