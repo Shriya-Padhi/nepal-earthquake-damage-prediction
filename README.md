@@ -62,7 +62,6 @@ geo_level_2_hat   geo_level_1_hat
 
 The 16 values from the intermediate layer replace all three raw geo ID columns in the final feature matrix.
 
-> Inspired by [Goodsea/Richter-s-Eye](https://github.com/Goodsea/Richter-s-Eye).
 
 ### 4. Model Iteration
 
