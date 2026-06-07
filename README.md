@@ -225,5 +225,4 @@ Built as a course project for **CSCI 567: Machine Learning** at the **University
 
 - Akiba et al. [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/abs/1907.10902) (2019)
 - Ke et al. [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html) (NeurIPS 2017)
-- Baran [Goodsea/Richter-s-Eye](https://github.com/Goodsea/Richter-s-Eye) geo-embedding architecture inspiration
 - [DrivenData Richter's Predictor Competition](https://www.drivendata.org/competitions/57/nepal-earthquake/)
