@@ -2,6 +2,7 @@
 
 > Ranked **#210 out of 2,715** on DrivenData, predicting building damage from the 2015 Gorkha earthquake using LightGBM, neural geographic embeddings, and Bayesian hyperparameter optimization.
 
+[![Course](https://img.shields.io/badge/USC-CSCI%20567-9b1b1b?style=flat-square)]()
 [![Competition](https://img.shields.io/badge/DrivenData-Richter's%20Predictor-1a6bb5?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/)
 [![Rank](https://img.shields.io/badge/Rank-%23210%20%2F%202%2C715-gold?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/?page=5)
 [![Score](https://img.shields.io/badge/Micro--F1-0.7519-brightgreen?style=flat-square)](https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/?page=5)
